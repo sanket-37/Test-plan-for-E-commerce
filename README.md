@@ -1,8 +1,8 @@
 # Test-plan-for-E-commerce
 1. Positive Login Page Test Cases
    
-Valid username and password combination successfully logs the user in.
-Testing with the minimum allowed username and password length.
+*Valid username and password combination successfully logs the user in.
+*Testing with the minimum allowed username and password length.
 Testing with a username and password containing alphanumeric characters.
 Successful login with the "Remember Me" option selected.
 Testing login with a username that contains both uppercase and lowercase characters.
